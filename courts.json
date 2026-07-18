@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Treptower Teufel Tennis Club e.V.",
+    "neighborhood": "Treptow",
+    "address": null,
+    "phone": null,
+    "email": "kontakt@treptower-teufel.de",
+    "how_to_book": "eBuSy: https://treptower-teufel.ebusy.de",
+    "hours": "Monday-Thursday: guests may book until 17:00 and from 20:00 onward; Friday: until 17:00 and from 19:00 onward; weekends: all day; outdoor season: early April to mid-October 2026; indoor hall: year-round.",
+    "price": "€30 per court per hour for two non-members, indoors or outdoors.",
+    "surfaces": [
+      "outdoor red clay"
+    ],
+    "notes": "Guests need an eBuSy account and playing partner, must book for 60 or 90 minutes no more than four days ahead, cannot play during weekday member prime time, and receive credit rather than refunds for eligible cancellations or rain."
+  },
+  {
+    "name": "Sportcenter Wittenau",
+    "neighborhood": "Reinickendorf",
+    "address": "Wittenauer Straße 82-86, 13435 Berlin",
+    "phone": "030 403 50 60",
+    "email": "info@sportcenter-wittenau.de",
+    "how_to_book": "Facility's own online booking system: https://sportcenter-wittenau.de",
+    "hours": "Weekdays: 08:00-22:00; weekends: 08:00-20:00; public holidays: 10:00-18:00.",
+    "price": "Summer: €25 per hour on weekdays 08:00-15:00, €31 per hour on weekdays 16:00-21:00, and €29 per hour on weekends and holidays; winter: €27-€33 per hour depending on time.",
+    "surfaces": [
+      "Grand Slam hard court (Rebound Ace-style)"
+    ],
+    "notes": "No membership is required, the rate covers up to four players, indoor shoes are mandatory, and cancellations made less than 24 hours ahead may incur a 50% fee if the slot is not rebooked."
+  },
+  {
+    "name": "spok - Sport und Kultur",
+    "neighborhood": "Pankow",
+    "address": "Nordendstraße 56, 13156 Berlin",
+    "phone": "+49 30 586013080",
+    "email": null,
+    "how_to_book": null,
+    "hours": "Weekdays: 08:00-23:00; weekends: 08:00-23:00, based on the published summer 2025 schedule.",
+    "price": "Published guest rates range from €11 to €36 per hour depending on season, surface and spok-card status.",
+    "surfaces": [
+      "outdoor red clay",
+      "indoor carpet"
+    ],
+    "notes": "Guests can play without membership but pay higher rates than spok-card holders, and the report does not confirm advance-booking or registration rules."
+  },
+  {
+    "name": "Blau-Gold Steglitz e.V.",
+    "neighborhood": "Steglitz",
+    "address": "Leonorenstraße 37-39, 12247 Berlin",
+    "phone": "030 7716886",
+    "email": "info@blau-gold-steglitz.de",
+    "how_to_book": "eBuSy guest registration and booking access: https://blau-gold-steglitz.de/ebusy-platzbuchungsportal",
+    "hours": null,
+    "price": null,
+    "surfaces": [
+      "outdoor clay",
+      "indoor carpet"
+    ],
+    "notes": "Guests must register for an eBuSy guest account, and the club does not provide racket, ball or shoe rental."
+  },
+  {
+    "name": "TC Grün-Weiß-Grün 1919",
+    "neighborhood": "Reinickendorf",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "eBuSy: https://tc-gwg.ebusy.de",
+    "hours": "Weekdays and weekends: booking slots are available 09:00-21:00; no separate weekday and weekend schedule was confirmed.",
+    "price": "€8 guest fee per hour; the report separately lists a €10 adult member court price.",
+    "surfaces": null,
+    "notes": "Bookings last 60 minutes, can be made up to seven days ahead, may be cancelled free up to one hour before play, must include the guest's full name in the comment, and require the guest fee to be paid in cash or to the board."
+  },
+  {
+    "name": "TC Grün-Weiss Nikolassee 1925 e.V.",
+    "neighborhood": "Steglitz",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "eBuSy: https://gw-nikolassee.ebusy.de",
+    "hours": null,
+    "price": "€15 guest fee per hour.",
+    "surfaces": null,
+    "notes": "A member must make the booking, select Guest as the partner, enter the guest's name and pay by SEPA direct debit, and the selected guest cannot be changed afterward."
+  },
+  {
+    "name": "Tennis-Club SCC Berlin",
+    "neighborhood": "Charlottenburg",
+    "address": "Waldschulallee 45, 14055 Berlin",
+    "phone": "+49 30 302 62 24",
+    "email": "info@tcsccberlin.de",
+    "how_to_book": "eBuSy online or at the club entrance using a GAST card; booking information: https://tcsccberlin.de/news/49-allgemein/723-neues-platzbelegungssystem-im-scc.html",
+    "hours": null,
+    "price": "€12 guest fee per hour.",
+    "surfaces": [
+      "indoor sand-style surface",
+      "indoor Pro-Bounce hard-fibre velour carpet"
+    ],
+    "notes": "Guests require a GAST card, may play no more than three times per season, and cannot be booked during the current core period of 17:00-20:00."
+  },
+  {
+    "name": "Berliner Tennis Club (BTC WISTA)",
+    "neighborhood": null,
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "Club online booking system or on-site terminal after registration: https://btc-wista.de/verein/mitgliedschaft/als-gast-spielen",
+    "hours": "Weekdays: guests may play until 16:00 and after 20:00; weekends: no guest time restrictions were stated.",
+    "price": "€15 per hour when playing with a club member or €30 per hour when multiple guests play.",
+    "surfaces": null,
+    "notes": "Guests must register online or at the club terminal before booking, fees are collected by direct debit, and weekday guest play is blocked from 16:00 to 20:00."
+  },
+  {
+    "name": "TC Sweet Spot",
+    "neighborhood": "Pankow",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "OpenResa: https://openresa.com/club/Tcsweetspot; Urban Sports Club members: https://urbansportsclub.com/de/venues/tennis-club-sweet-spot",
+    "hours": "Urban Sports Club users: weekdays and weekends 08:00-23:00; separate non-USC guest hours were not confirmed.",
+    "price": "€22 per hour for courts 1-3; €25 per hour for night play on court 3 from 20:00.",
+    "surfaces": null,
+    "notes": "Non-USC guests can book through OpenResa, while Urban Sports Club members must reserve through the USC app."
+  },
+  {
+    "name": "TiB 1848 e.V.",
+    "neighborhood": null,
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "eBuSy; booking instructions: https://tib-tennis.de/anlage/belegungssystem",
+    "hours": null,
+    "price": "€15 per guest per hour for outdoor play.",
+    "surfaces": [
+      "outdoor clay",
+      "indoor carpet"
+    ],
+    "notes": "Each member may bring a guest three times per outdoor season, the guest can be booked only within two hours of the start time, and the fee is billed to the member at season end."
+  },
+  {
+    "name": "SV Berliner Brauereien e.V.",
+    "neighborhood": "Prenzlauer Berg",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": null,
+    "hours": "Weekdays: sunrise to sunset; weekends: sunrise to sunset.",
+    "price": "Approximately €12 per hour, with some peak weekend rates reported as high as €24 per hour.",
+    "surfaces": [
+      "outdoor clay"
+    ],
+    "notes": "Guest play is available, but the report does not confirm the booking method, advance-booking rules or current exact price."
+  },
+  {
+    "name": "Tennisclub Weiß-Rot Neukölln",
+    "neighborhood": "Neukölln",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "BookandPlay: https://bookandplay.de/cgi-bin/WebObjects/BookAndPlay.woa/wa/platz_buchen?id=TVBB-13042",
+    "hours": null,
+    "price": "€10 per guest per hour when playing with a member during summer; the winter guest price was not confirmed.",
+    "surfaces": null,
+    "notes": "Summer guests may play with a member no more than three times, while winter guests may reserve free slots up to three days ahead."
+  },
+  {
+    "name": "The Beyond Tennis Club / Beyond Tennis Court rental at Tempelhofer Feld",
+    "neighborhood": "Tempelhof",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "The Beyond service page: https://thebeyondberlin.com/service-page/rent-a-court-1",
+    "hours": null,
+    "price": null,
+    "surfaces": [
+      "outdoor hard court"
+    ],
+    "notes": "The rental is for one full-size court at Tempelhofer Feld, and players must bring their own rackets and balls."
+  },
+  {
+    "name": "TSV Spandau 1860",
+    "neighborhood": "Spandau",
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": null,
+    "hours": null,
+    "price": "€10 per guest per hour.",
+    "surfaces": [
+      "outdoor clay"
+    ],
+    "notes": "A member may bring up to three guests per season, the fee must be paid by bank transfer, and a guest exceeding the limit must become a member."
+  },
+  {
+    "name": "LTTC Rot-Weiß Berlin",
+    "neighborhood": null,
+    "address": null,
+    "phone": null,
+    "email": null,
+    "how_to_book": "Club booking portal: https://meinrotweiss.de",
+    "hours": null,
+    "price": null,
+    "surfaces": null,
+    "notes": "Guests must register in the booking system and may book indoor winter courts only, while summer courts are restricted to members."
+  }
+]
